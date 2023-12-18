@@ -6,8 +6,5 @@
         xmlns:local="clr-namespace:FinanseControleSystem.UI"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Height="192" Margin="192,134,0,0" VerticalAlignment="Top" Width="474" Click="Button_Click"/>
-
-    </Grid>
+    <Grid/>
 </Window>
