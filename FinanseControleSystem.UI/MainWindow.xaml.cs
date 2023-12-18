@@ -19,7 +19,7 @@ namespace FinanseControleSystem.UI
         public MainWindow()
         {
             InitializeComponent();
-            int a=10;
+
         }
     }
 }
